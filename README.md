@@ -1,2 +1,2 @@
 # Web-store
-visit the website - https://rakib010.github.io/Web-store/
+Foodcart-link - https://rakib010.github.io/Web-store/
